@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Planets
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 4
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 12
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 4
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9a7d12d9fc868424984cc732fcaf15e4, type: 3}
+    - {fileID: 2800000, guid: 4b6f36aa13ee6c64789e9382a9b8ee33, type: 3}
+    - {fileID: 2800000, guid: ad5b8ca6a30062a45a409aab83d0f798, type: 3}
+    - {fileID: 2800000, guid: d81a86d1ad0ceaa41a30c2ecb2d2b1bb, type: 3}
+    - {fileID: 2800000, guid: bb825894a05a5574d8e1f642da7baccd, type: 3}
+    - {fileID: 2800000, guid: f265876ce7e774748890e0080239da92, type: 3}
+    - {fileID: 2800000, guid: 6ca51ed3a842a764cbe93d36c2ccf284, type: 3}
+    - {fileID: 2800000, guid: f67c7b2ebbfab194da970f35c1c59af0, type: 3}
+    - {fileID: 2800000, guid: ab183f51f18d75d4096f239c7b3f8506, type: 3}
+    - {fileID: 2800000, guid: fe6938a220bcd1a4abaeb7422ba447e6, type: 3}
+    - {fileID: 2800000, guid: ca3a64c11906706419bc99a88a7966ef, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - ab183f51f18d75d4096f239c7b3f8506: 21300000
+    - ca3a64c11906706419bc99a88a7966ef: 21300000
+    - d81a86d1ad0ceaa41a30c2ecb2d2b1bb: 21300000
+    - fe6938a220bcd1a4abaeb7422ba447e6: 21300000
+    - 6ca51ed3a842a764cbe93d36c2ccf284: 21300000
+    - bb825894a05a5574d8e1f642da7baccd: 21300000
+    - ad5b8ca6a30062a45a409aab83d0f798: 21300000
+    - 9a7d12d9fc868424984cc732fcaf15e4: 21300000
+    - 4b6f36aa13ee6c64789e9382a9b8ee33: 21300000
+    - f265876ce7e774748890e0080239da92: 21300000
+    - f67c7b2ebbfab194da970f35c1c59af0: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ab183f51f18d75d4096f239c7b3f8506, type: 3}
+  - {fileID: 21300000, guid: ca3a64c11906706419bc99a88a7966ef, type: 3}
+  - {fileID: 21300000, guid: d81a86d1ad0ceaa41a30c2ecb2d2b1bb, type: 3}
+  - {fileID: 21300000, guid: fe6938a220bcd1a4abaeb7422ba447e6, type: 3}
+  - {fileID: 21300000, guid: 6ca51ed3a842a764cbe93d36c2ccf284, type: 3}
+  - {fileID: 21300000, guid: bb825894a05a5574d8e1f642da7baccd, type: 3}
+  - {fileID: 21300000, guid: ad5b8ca6a30062a45a409aab83d0f798, type: 3}
+  - {fileID: 21300000, guid: 9a7d12d9fc868424984cc732fcaf15e4, type: 3}
+  - {fileID: 21300000, guid: 4b6f36aa13ee6c64789e9382a9b8ee33, type: 3}
+  - {fileID: 21300000, guid: f265876ce7e774748890e0080239da92, type: 3}
+  - {fileID: 21300000, guid: f67c7b2ebbfab194da970f35c1c59af0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Planet_09
+  - Planet_11
+  - Planet_04
+  - Planet_10
+  - Planet_07
+  - Planet_05
+  - Planet_03
+  - Planet_01
+  - Planet_02
+  - Planet_06
+  - Planet_08
+  m_RenderDataMap: {}
+  m_Tag: Planets
+  m_IsVariant: 0
